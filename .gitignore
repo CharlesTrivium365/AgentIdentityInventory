@@ -1,0 +1,20 @@
+# Rapports et exports generes par l'outil
+*.html
+*.csv
+*.log
+
+# Dossiers de sortie
+output/
+out/
+
+# Fichiers PowerShell locaux
+*.user
+*.ps1xml.bak
+
+# Modules telecharges localement
+Modules/
+
+# Fichiers systeme
+.DS_Store
+Thumbs.db
+desktop.ini
